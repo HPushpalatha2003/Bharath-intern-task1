@@ -140,9 +140,6 @@ button:hover{
     animation-iteration-count: 1;
     text-decoration:underline ;
 }
-.pic{
-   padding-top:50px;
-}
 .pic img
 {
     width: 300px;
